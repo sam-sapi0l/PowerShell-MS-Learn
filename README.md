@@ -1,10 +1,2 @@
-#########################################################
-#                                                       #
-#   Automate administrative tasks by using PowerShell   # 
-#                                                       #
-#########################################################                                                      
-#
-# Curso de automação de tarefas em PowerShell
-# provido diretamente pela Microsoft pelo Microsoft Learn
-#
-#
+Automate administrative tasks by using PowerShell // Automação de tarefas administrativas utilizando PowerShell
+ Estudos referentte ao curso pela Microsoft Learn
