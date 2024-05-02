@@ -18,4 +18,4 @@ Get-Process | Sort-Object -Descending -Property -Name
 Get-Process | Sort-Object -Descending -Property Name, CPU
 
 # Expressão customizada
-Get-Process 'powershell' | Sort-Object -Property@(Expression = "Name"; )
+Get-Process 'powershell' | Sort-Object -Property@{Expression = "Name"; Descending = $True}, @{Expression = 'CPU'; Descendinhg =$false }
